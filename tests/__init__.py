@@ -1,0 +1,3 @@
+from test_longest_sequence import TestLongestConsecutiveSequence
+from test_two_sum import TestTwoSum
+from test_longest_substring_without_repeating_chars import TestLongestSubstringWithoutRepeatingChars
